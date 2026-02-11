@@ -1,0 +1,2 @@
+passwd nagireddy
+wsl --shutdown
